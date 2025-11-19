@@ -1,4 +1,4 @@
-const backendBase = "https://YOUR_BACKEND_DOMAIN";
+const backendBase = "https://fasoleh7.github.io/VtDL/backend/app.py";
 
 document.getElementById('downloadBtn').addEventListener('click', async () => {
   const url = document.getElementById('url').value.trim();
